@@ -1,5 +1,5 @@
-# Tripadvisor-Clone-Website
-🧭 Tripadvisor Clone – Responsive Travel Site UI A clean and responsive front-end replica of Tripadvisor built using HTML and CSS. Features interactive hover effects, flexible layout with flexbox, and mobile responsiveness using @media queries. Ideal for showcasing web design skills and mastering responsive layouts.
+# TripAdvisor-Clone-Website
+🧭 TripAdvisor Clone – Responsive Travel Site UI A clean and responsive front-end replica of Tripadvisor built using HTML and CSS. Features interactive hover effects, flexible layout with flexbox, and mobile responsiveness using @media queries. Ideal for showcasing web design skills and mastering responsive layouts.
 
 
 🧳 Tripadvisor Clone (HTML & CSS)
@@ -37,4 +37,5 @@ Font Awesome Icons (via CDN)
 
 🙏 Thank You
 Thanks for checking out this project! Feel free to explore, fork, and contribute. Your feedback is always welcome — let’s keep building and learning together! 🌍💻
+
 
